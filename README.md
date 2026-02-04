@@ -23,5 +23,3 @@ Examples from the specification include:
 - Input limits (servo angles, throttle ranges)
 - Safety constraints during landing (e.g., height constraint z ≥ 0)
 - Additional constraints for safe operation (minimum throttle requirement)
-
-## Repository structure
